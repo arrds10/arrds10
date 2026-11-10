@@ -1,6 +1,6 @@
 # ¡Hola! Soy Arrds
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -10,7 +10,7 @@
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Inventor](https://img.shields.io/badge/Inventor-FFB100?style=for-the-badge&logo=autodesk&logoColor=white)
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 ![Estadísticas de Ortega-ARRDS10](https://github-readme-stats.vercel.app/api?username=Ortega-ARRDS10&show_icons=true&theme=default)
 
