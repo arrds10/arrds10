@@ -12,8 +12,4 @@
 
 ## Estadísticas de GitHub
 
-![Estadísticas de Ortega-ARRDS10](https://github-readme-stats.vercel.app/api?username=Ortega-ARRDS10&show_icons=true&theme=default)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ortega-ARRDS10&layout=compact&theme=default)
-
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Ortega-ARRDS10&theme=default)
