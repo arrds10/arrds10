@@ -1,10 +1,4 @@
-# ¡Hola! Soy Arrds 👋
-
-🚀 Estudiante de **Ingeniería Aeroespacial** en la Facultad de Ingeniería de la **UNLP** (Universidad Nacional de La Plata), Argentina.
-
-- 🔭 Actualmente aprendiendo y aplicando herramientas de cálculo, simulación y diseño para proyectos de ingeniería.
-- 🌱 Siempre sumando nuevas skills en programación y diseño asistido por computadora.
-- 💬 Preguntame sobre ingeniería aeroespacial, cálculo numérico o simulación.
+# ¡Hola! Soy Arrds
 
 ## 🛠️ Tecnologías y herramientas
 
