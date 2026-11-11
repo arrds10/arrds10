@@ -12,7 +12,7 @@ Mis repositorios se encuentran actualmente en proceso de desarrollo y serán abi
 
 - **aerospace-engineering-notes:** colección abierta de apuntes, material interactivo y proyectos de ingeniería aeroespacial, organizada por disciplina y redactada en inglés y español.
 - **arrds-math-engine:** motor matemático para cálculo simbólico y numérico, con un intérprete de LaTeX propio, orientado a resolver y verificar problemas de ingeniería.
-- **motor-OCR:** motor híbrido para convertir PDF con contenido matemático a LaTeX y Markdown, que combina reglas deterministas con inteligencia artificial únicamente en los casos ambiguos.
+- **arrds-ocr:** motor híbrido para convertir PDF con contenido matemático a LaTeX y Markdown, que combina reglas deterministas con inteligencia artificial únicamente en los casos ambiguos.
 - **skillset-arrds:** conjunto de skills de Claude Code y herramientas propias para la ingeniería aeroespacial.
 
 ## Próximos pasos
