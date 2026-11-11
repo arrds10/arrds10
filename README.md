@@ -9,7 +9,3 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Inventor](https://img.shields.io/badge/Inventor-FFB100?style=for-the-badge&logo=autodesk&logoColor=white)
-
-## Estadísticas de GitHub
-
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Ortega-ARRDS10&theme=default)
