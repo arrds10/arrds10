@@ -10,8 +10,8 @@ Soy estudiante de Ingeniería Aeroespacial. Desarrollo herramientas de cálculo,
 
 Mis repositorios se encuentran actualmente en proceso de desarrollo y serán abiertos al público próximamente:
 
-- **aerospace-engineering-notes:** colección abierta de apuntes, material interactivo y proyectos de ingeniería aeroespacial, organizada por disciplina y redactada en inglés y español.
-- **arrds-math-engine:** motor matemático para cálculo simbólico y numérico, con un intérprete de LaTeX propio, orientado a resolver y verificar problemas de ingeniería.
+- **aerospace-engineering-handbook-arrds:** manual de referencia abierto de ingeniería aeroespacial, con fórmulas, tablas, criterios y procedimientos, organizado por disciplina y redactado en inglés y español.
+- **arrds-mathcore:** motor matemático para cálculo simbólico y numérico, con un intérprete de LaTeX propio, orientado a resolver y verificar problemas de ingeniería.
 - **arrds-ocr:** motor híbrido para convertir PDF con contenido matemático a LaTeX y Markdown, que combina reglas deterministas con inteligencia artificial únicamente en los casos ambiguos.
 - **skillset-arrds:** conjunto de skills de Claude Code y herramientas propias para la ingeniería aeroespacial.
 

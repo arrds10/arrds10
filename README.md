@@ -10,8 +10,8 @@ I am an aerospace engineering student. I develop calculation, simulation and des
 
 My repositories are currently under development and will be made public soon:
 
-- **aerospace-engineering-notes:** an open collection of notes, interactive material and projects on aerospace engineering, organized by discipline and written in English and Spanish.
-- **arrds-math-engine:** a mathematical engine for symbolic and numerical computation, with its own LaTeX interpreter, aimed at solving and verifying engineering problems.
+- **aerospace-engineering-handbook-arrds:** an open reference handbook on aerospace engineering, with formulas, tables, criteria and procedures, organized by discipline and written in English and Spanish.
+- **arrds-mathcore:** a mathematical engine for symbolic and numerical computation, with its own LaTeX interpreter, aimed at solving and verifying engineering problems.
 - **arrds-ocr:** a hybrid engine that converts PDFs with mathematical content into LaTeX and Markdown, combining deterministic rules with artificial intelligence only for ambiguous cases.
 - **skillset-arrds:** a set of Claude Code skills and custom tools for aerospace engineering.
 
