@@ -1,3 +1,5 @@
+![ARRDS — Aerospace Engineering · Calculus · Simulation · Design](assets/banner-1280x640.png)
+
 🇪🇸 [Leer en español](README.es.md)
 
 # Arrds
